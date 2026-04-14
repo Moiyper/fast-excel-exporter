@@ -21,7 +21,7 @@ Heavy operations (memory allocation, ZIP compression, XML generation) are execut
 
 ##Installation & Build
 
-```cmd:![photo_2026-04-14_22-41-15](https://github.com/user-attachments/assets/52609f3f-be7b-40c4-8df5-a96341cab1c3)
+```cmd:
 
 git clone https://github.com/Moiyper/fast-excel-exporter.git
 cd fast-excel-exporter
